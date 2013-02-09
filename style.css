@@ -98,8 +98,8 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://businessnetworking.com/wp-content/uploads/2012/04/happy-face.jpg) no-repeat; background-size: contain;}
-.fx {background: url(https://www.ptsdforum.org/c/attachments/sadface-jpg.13563/) no-repeat; background-size: contain;}
+.ie {background: url(http://images.43places.com/entry/1678828pw150.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://us.cdn4.123rf.com/168nwm/franckito/franckito1109/franckito110900091/10645154-3d-rendering-of-an-egg-with-a-painted-sad-face-wearing-a-chef-s-toque.jpg) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
 .op {background: url(./images/op.png) no-repeat; background-size: contain;}
